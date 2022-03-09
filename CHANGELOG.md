@@ -15,3 +15,7 @@
 ## [1.0.3]
 
 - Changed image url
+
+## [1.0.4]
+
+- Punctuation color changes
