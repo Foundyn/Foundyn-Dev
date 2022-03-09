@@ -11,3 +11,8 @@
 ## [1.0.6]
 
 - Minor Changes
+
+## [1.0.7]
+
+- Some things
+
