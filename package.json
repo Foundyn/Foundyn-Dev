@@ -1,0 +1,40 @@
+{
+  "name": "Foundyn-Dev",
+  "displayName": "Foundyn Dev",
+  "publisher": "Foundyn",
+  "description": "Warm feeling Monokai inspired theme, goes best with Material Icons.",
+  "version": "1.0.4",
+  "homepage": "https://foundyn.dev",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#9A918C",
+    "theme": "light"
+  },
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "monokai",
+    "warm",
+    "cozy"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Foundyn Dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Foundyn-Dev-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Foundyn/Foundyn-Dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Foundyn/Foundyn-Dev/issues"
+  }
+}
