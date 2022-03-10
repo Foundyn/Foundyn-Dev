@@ -19,3 +19,7 @@
 ## [1.0.8]
 
 - Minor Changes
+
+## [1.0.9]
+
+- Icon Changed
