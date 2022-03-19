@@ -11,3 +11,7 @@
 ## [1.0.10]
 
 - Background Color of Marketplace Listing changed
+
+## [1.0.11]
+
+- New Screenshot

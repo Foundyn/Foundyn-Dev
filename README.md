@@ -6,6 +6,6 @@ I searched a lot for a monokai based theme that has non-greenish darker backgrou
 
 It goes best with the Material Icon theme.
 
-![Screenshot](https://foundyn.dev/img/foundyn-dev-vscode-theme-screenshot-1.png "Foundyn Dev Theme Preview")
+![Screenshot](https://foundyn.dev/img/foundyn-dev-vscode-theme-screenshot-1.0.11.png "Foundyn Dev Theme Preview")
 
 **Enjoy!**
